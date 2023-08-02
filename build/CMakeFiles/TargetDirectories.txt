@@ -1,0 +1,6 @@
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/my-project-lib.dir
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/my-project-exe.dir
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/my-project-test.dir
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/ZERO_CHECK.dir

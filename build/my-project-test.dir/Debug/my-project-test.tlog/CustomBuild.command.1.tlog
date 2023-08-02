@@ -1,0 +1,10 @@
+^C:\USERS\G.NORKUS\SOURCE\REPOS\OATPP-SWAGGER\MY-SERVICE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/G.Norkus/source/repos/oatpp-swagger/my-service -BC:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build --check-stamp-file C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

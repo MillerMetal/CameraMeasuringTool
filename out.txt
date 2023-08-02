@@ -1,0 +1,2235 @@
+ Volume in drive C is OS
+ Volume Serial Number is AE1E-1FBB
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service
+
+08/02/2023  03:04 PM    <DIR>          .
+08/02/2023  11:02 AM    <DIR>          ..
+08/02/2023  01:30 PM    <DIR>          build
+06/08/2023  10:26 AM    <DIR>          test
+07/12/2023  04:25 PM    <DIR>          src
+08/02/2023  02:15 PM    <DIR>          main
+08/02/2023  03:04 PM                 0 out.txt
+06/08/2023  10:26 AM    <DIR>          utility
+08/02/2023  12:37 PM                26 README.md
+08/01/2023  03:47 PM             1,561 CMakeLists.txt
+06/08/2023  10:26 AM            11,357 LICENSE
+               4 File(s)         12,944 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git
+
+08/02/2023  03:04 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          objects
+08/02/2023  12:38 PM    <DIR>          logs
+08/02/2023  12:33 PM    <DIR>          info
+08/02/2023  12:33 PM    <DIR>          refs
+08/02/2023  12:33 PM    <DIR>          hooks
+08/02/2023  02:56 PM                13 COMMIT_EDITMSG
+08/02/2023  02:56 PM                21 HEAD
+08/02/2023  01:45 PM                41 ORIG_HEAD
+08/02/2023  01:52 PM                46 packed-refs
+08/02/2023  12:33 PM                73 description
+08/02/2023  02:56 PM               237 config
+08/02/2023  02:56 PM            29,843 index
+               7 File(s)         30,274 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\hooks
+
+08/02/2023  12:33 PM    <DIR>          .
+08/02/2023  12:33 PM               189 post-update.sample
+08/02/2023  12:33 PM               416 pre-merge-commit.sample
+08/02/2023  12:33 PM               424 pre-applypatch.sample
+08/02/2023  12:33 PM               478 applypatch-msg.sample
+08/02/2023  12:33 PM               544 pre-receive.sample
+08/02/2023  12:33 PM               896 commit-msg.sample
+08/02/2023  12:33 PM             1,374 pre-push.sample
+08/02/2023  12:33 PM             1,492 prepare-commit-msg.sample
+08/02/2023  12:33 PM             1,643 pre-commit.sample
+08/02/2023  12:33 PM             2,783 push-to-checkout.sample
+08/02/2023  12:33 PM             3,650 update.sample
+08/02/2023  12:33 PM             4,655 fsmonitor-watchman.sample
+08/02/2023  12:33 PM             4,898 pre-rebase.sample
+              13 File(s)         23,442 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\info
+
+08/02/2023  12:33 PM    <DIR>          .
+08/02/2023  12:33 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\logs
+
+08/02/2023  02:56 PM    <DIR>          refs
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  02:56 PM             1,683 HEAD
+               1 File(s)          1,683 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\logs\refs
+
+08/02/2023  12:38 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          heads
+08/02/2023  02:56 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\logs\refs\heads
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  02:56 PM               495 main
+               1 File(s)            495 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects
+
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  12:38 PM    <DIR>          00
+08/02/2023  12:37 PM    <DIR>          01
+08/02/2023  12:38 PM    <DIR>          02
+08/02/2023  01:15 PM    <DIR>          03
+08/02/2023  12:38 PM    <DIR>          04
+08/02/2023  12:38 PM    <DIR>          05
+08/02/2023  12:38 PM    <DIR>          06
+08/02/2023  12:38 PM    <DIR>          07
+08/02/2023  12:38 PM    <DIR>          0a
+08/02/2023  12:38 PM    <DIR>          0b
+08/02/2023  12:38 PM    <DIR>          0c
+08/02/2023  12:38 PM    <DIR>          0f
+08/02/2023  12:38 PM    <DIR>          10
+08/02/2023  12:38 PM    <DIR>          11
+08/02/2023  12:38 PM    <DIR>          12
+08/02/2023  12:38 PM    <DIR>          13
+08/02/2023  12:38 PM    <DIR>          14
+08/02/2023  12:38 PM    <DIR>          16
+08/02/2023  01:15 PM    <DIR>          17
+08/02/2023  12:38 PM    <DIR>          18
+08/02/2023  12:38 PM    <DIR>          1b
+08/02/2023  12:38 PM    <DIR>          1c
+08/02/2023  12:38 PM    <DIR>          1e
+08/02/2023  12:38 PM    <DIR>          1f
+08/02/2023  12:38 PM    <DIR>          20
+08/02/2023  12:37 PM    <DIR>          23
+08/02/2023  12:38 PM    <DIR>          24
+08/02/2023  12:38 PM    <DIR>          25
+08/02/2023  01:15 PM    <DIR>          26
+08/02/2023  12:38 PM    <DIR>          27
+08/02/2023  12:38 PM    <DIR>          2a
+08/02/2023  12:38 PM    <DIR>          2b
+08/02/2023  12:38 PM    <DIR>          2c
+08/02/2023  12:38 PM    <DIR>          2d
+08/02/2023  12:38 PM    <DIR>          2f
+08/02/2023  12:38 PM    <DIR>          30
+08/02/2023  12:38 PM    <DIR>          31
+08/02/2023  12:38 PM    <DIR>          32
+08/02/2023  01:14 PM    <DIR>          33
+08/02/2023  12:38 PM    <DIR>          34
+08/02/2023  12:38 PM    <DIR>          35
+08/02/2023  12:38 PM    <DIR>          37
+08/02/2023  12:38 PM    <DIR>          38
+08/02/2023  12:38 PM    <DIR>          3d
+08/02/2023  12:38 PM    <DIR>          3e
+08/02/2023  12:38 PM    <DIR>          3f
+08/02/2023  12:38 PM    <DIR>          42
+08/02/2023  02:56 PM    <DIR>          43
+08/02/2023  12:38 PM    <DIR>          46
+08/02/2023  12:38 PM    <DIR>          47
+08/02/2023  12:38 PM    <DIR>          48
+08/02/2023  12:38 PM    <DIR>          49
+08/02/2023  12:38 PM    <DIR>          4b
+08/02/2023  12:38 PM    <DIR>          4f
+08/02/2023  12:38 PM    <DIR>          50
+08/02/2023  12:38 PM    <DIR>          51
+08/02/2023  12:38 PM    <DIR>          52
+08/02/2023  12:38 PM    <DIR>          53
+08/02/2023  12:38 PM    <DIR>          54
+08/02/2023  12:37 PM    <DIR>          55
+08/02/2023  12:38 PM    <DIR>          56
+08/02/2023  12:37 PM    <DIR>          57
+08/02/2023  12:38 PM    <DIR>          58
+08/02/2023  12:38 PM    <DIR>          59
+08/02/2023  12:38 PM    <DIR>          5c
+08/02/2023  12:38 PM    <DIR>          5e
+08/02/2023  12:37 PM    <DIR>          60
+08/02/2023  12:38 PM    <DIR>          64
+08/02/2023  12:38 PM    <DIR>          65
+08/02/2023  12:38 PM    <DIR>          66
+08/02/2023  02:56 PM    <DIR>          68
+08/02/2023  12:38 PM    <DIR>          69
+08/02/2023  12:38 PM    <DIR>          6a
+08/02/2023  12:38 PM    <DIR>          6b
+08/02/2023  12:38 PM    <DIR>          6c
+08/02/2023  12:38 PM    <DIR>          6d
+08/02/2023  12:38 PM    <DIR>          6e
+08/02/2023  01:15 PM    <DIR>          6f
+08/02/2023  12:38 PM    <DIR>          70
+08/02/2023  12:38 PM    <DIR>          71
+08/02/2023  12:38 PM    <DIR>          72
+08/02/2023  12:38 PM    <DIR>          73
+08/02/2023  12:38 PM    <DIR>          74
+08/02/2023  12:38 PM    <DIR>          75
+08/02/2023  12:38 PM    <DIR>          77
+08/02/2023  12:38 PM    <DIR>          79
+08/02/2023  12:38 PM    <DIR>          7a
+08/02/2023  12:38 PM    <DIR>          7b
+08/02/2023  12:38 PM    <DIR>          7c
+08/02/2023  12:38 PM    <DIR>          7e
+08/02/2023  01:15 PM    <DIR>          7f
+08/02/2023  12:38 PM    <DIR>          81
+08/02/2023  12:38 PM    <DIR>          84
+08/02/2023  12:38 PM    <DIR>          85
+08/02/2023  12:38 PM    <DIR>          87
+08/02/2023  12:38 PM    <DIR>          88
+08/02/2023  12:38 PM    <DIR>          8a
+08/02/2023  12:38 PM    <DIR>          8b
+08/02/2023  02:56 PM    <DIR>          8c
+08/02/2023  01:15 PM    <DIR>          90
+08/02/2023  12:38 PM    <DIR>          93
+08/02/2023  12:38 PM    <DIR>          94
+08/02/2023  01:15 PM    <DIR>          95
+08/02/2023  01:14 PM    <DIR>          97
+08/02/2023  12:38 PM    <DIR>          98
+08/02/2023  12:38 PM    <DIR>          99
+08/02/2023  12:38 PM    <DIR>          9b
+08/02/2023  01:14 PM    <DIR>          9c
+08/02/2023  12:38 PM    <DIR>          9e
+08/02/2023  12:38 PM    <DIR>          9f
+08/02/2023  12:38 PM    <DIR>          a0
+08/02/2023  01:15 PM    <DIR>          a1
+08/02/2023  12:38 PM    <DIR>          a3
+08/02/2023  12:38 PM    <DIR>          a5
+08/02/2023  12:38 PM    <DIR>          a6
+08/02/2023  01:14 PM    <DIR>          a7
+08/02/2023  12:38 PM    <DIR>          a8
+08/02/2023  01:15 PM    <DIR>          a9
+08/02/2023  01:15 PM    <DIR>          ac
+08/02/2023  12:38 PM    <DIR>          ad
+08/02/2023  12:38 PM    <DIR>          ae
+08/02/2023  12:38 PM    <DIR>          af
+08/02/2023  12:38 PM    <DIR>          b0
+08/02/2023  12:38 PM    <DIR>          b1
+08/02/2023  12:38 PM    <DIR>          b2
+08/02/2023  12:38 PM    <DIR>          b3
+08/02/2023  12:38 PM    <DIR>          b6
+08/02/2023  12:38 PM    <DIR>          b7
+08/02/2023  12:38 PM    <DIR>          b8
+08/02/2023  12:38 PM    <DIR>          b9
+08/02/2023  12:38 PM    <DIR>          ba
+08/02/2023  12:38 PM    <DIR>          bb
+08/02/2023  12:38 PM    <DIR>          bd
+08/02/2023  12:38 PM    <DIR>          be
+08/02/2023  12:38 PM    <DIR>          bf
+08/02/2023  12:38 PM    <DIR>          c0
+08/02/2023  12:38 PM    <DIR>          c6
+08/02/2023  12:38 PM    <DIR>          c8
+08/02/2023  12:38 PM    <DIR>          c9
+08/02/2023  12:38 PM    <DIR>          cb
+08/02/2023  12:38 PM    <DIR>          ce
+08/02/2023  12:38 PM    <DIR>          d1
+08/02/2023  12:38 PM    <DIR>          d2
+08/02/2023  12:38 PM    <DIR>          d4
+08/02/2023  12:38 PM    <DIR>          d8
+08/02/2023  12:38 PM    <DIR>          d9
+08/02/2023  12:38 PM    <DIR>          da
+08/02/2023  12:38 PM    <DIR>          db
+08/02/2023  12:38 PM    <DIR>          dc
+08/02/2023  12:38 PM    <DIR>          de
+08/02/2023  12:38 PM    <DIR>          e0
+08/02/2023  12:38 PM    <DIR>          e1
+08/02/2023  12:37 PM    <DIR>          e2
+08/02/2023  12:38 PM    <DIR>          e3
+08/02/2023  12:38 PM    <DIR>          e6
+08/02/2023  12:38 PM    <DIR>          e8
+08/02/2023  12:38 PM    <DIR>          eb
+08/02/2023  12:38 PM    <DIR>          ec
+08/02/2023  12:38 PM    <DIR>          ed
+08/02/2023  12:38 PM    <DIR>          ef
+08/02/2023  12:38 PM    <DIR>          f0
+08/02/2023  12:38 PM    <DIR>          f1
+08/02/2023  12:38 PM    <DIR>          f4
+08/02/2023  12:38 PM    <DIR>          f5
+08/02/2023  12:38 PM    <DIR>          f7
+08/02/2023  12:38 PM    <DIR>          f8
+08/02/2023  12:38 PM    <DIR>          f9
+08/02/2023  12:38 PM    <DIR>          fa
+08/02/2023  12:38 PM    <DIR>          fc
+08/02/2023  12:38 PM    <DIR>          fe
+08/02/2023  12:33 PM    <DIR>          info
+08/02/2023  12:33 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\00
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               169 faab949a9cc1e478b9dc5ea72ea4058c72e5b5
+08/02/2023  12:38 PM               471 67350db7c16de643bb3b071ad54bb57f67df68
+08/02/2023  12:38 PM               572 8882eb436de4f3abecdaf96e3f52f41a394a20
+               3 File(s)          1,212 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\01
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM            19,912 9b26ef95a5fa41d31490c9fbde9e539ea6c7e4
+               1 File(s)         19,912 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\02
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               274 4ba29c2ae1a12a7414674a1a2a7b3f1a7299dd
+               1 File(s)            274 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\03
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  12:38 PM               161 118a5a29525d7284b7c5ddde104cb93b46e746
+08/02/2023  01:15 PM               241 9534c55515620ee5d00452ea04bd93eba268ad
+               2 File(s)            402 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\04
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               116 70e3d215347662e4151e3e0fe3ac32f55569b2
+               1 File(s)            116 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\05
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               213 63d7ec4c9d4dc80dec9e7fee297a84ef5f747b
+08/02/2023  12:38 PM               462 93d864b51259a9b75ad1163371d3e1c2323020
+               2 File(s)            675 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\06
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               946 176b51f0b8e6023f1cbdc96fa5f89d618a7d50
+               1 File(s)            946 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\07
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               908 9e4fed642bf6568d80a4e4e400c86bda8794a8
+               1 File(s)            908 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\0a
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               520 f7115ce393511b8efeef8f22b0bcb4cc7a1684
+08/02/2023  12:38 PM               610 55bfd6bb0709624a0ff332fcb2427d066eb675
+08/02/2023  12:38 PM             1,156 0e26254474a561b023b482a8d5b48b3d9ff0fe
+               3 File(s)          2,286 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\0b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               111 1de60318e3ffbc11df6fead2c8dcf12666a6b9
+08/02/2023  12:38 PM             2,085 138d928c087c7915dd16db70b0bd9234ba2b96
+               2 File(s)          2,196 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\0c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                47 7c421cad9b9dc784cc9e56363b0ba1207d1786
+08/02/2023  12:38 PM                69 33a83caa6eafbdc017eb794d1f2ab51ae11b49
+               2 File(s)            116 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\0f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               126 61961035f9ba276959420f53b5034125dba7f8
+08/02/2023  12:38 PM               252 dbb63f212e04cad0473b6632839c2eb22593dd
+08/02/2023  12:38 PM               380 384294372c3799382beeef92c378d16182cfa2
+               3 File(s)            758 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\10
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                53 d6a961f8afbc5c52f72990900c1bf5b76b3a8c
+08/02/2023  12:38 PM                78 330ec448c78f0b22e912027a01c66d3248ada1
+08/02/2023  12:38 PM               151 30a75e596af584ea4213a20e5c2cd45e783668
+08/02/2023  12:38 PM             4,808 d9246db5738154683172962fdbdbce9b612416
+               4 File(s)          5,090 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\11
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               180 77e13d6a12b84269574899a747e8807254db5f
+08/02/2023  12:38 PM               343 b69cfa65446b1e0ae9aadd1d31210abd97df8b
+08/02/2023  12:38 PM             1,153 ce3e6dc0bd420b158eb7899ddab265fdab6a15
+               3 File(s)          1,676 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\12
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               203 7233490e00cc5e653efd65cdcae01896915ebc
+               1 File(s)            203 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\13
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                49 837483cd8abdf619fdb353eee97a5540520934
+08/02/2023  12:38 PM               178 e0f7446ff4ea5b07642f3f2431b738909804d8
+               2 File(s)            227 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\14
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM           380,916 f0840c2df11c3f909825388106b00a47f85cc4
+               1 File(s)        380,916 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\16
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                98 9beebf0d70b3e363b0e62f84ba0c2d99786500
+08/02/2023  12:38 PM               460 e8a0344194d51e8aca1fb9eaebb84ce167ff99
+               2 File(s)            558 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\17
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM               254 0798d67ae7a8c46bf2cd47d0bbc1a3b2671991
+               1 File(s)            254 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\18
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,614 36042c1c1a525d43bff40f75c60bd872c3a5c2
+               1 File(s)          1,614 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\1b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               240 48232559cfc4ced4a1cf2edb1c9f8388568e65
+08/02/2023  12:38 PM               951 fc29d93f8841d1af6b495faa327dcfd5160a2a
+               2 File(s)          1,191 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\1c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                97 d4bdfaf1c9860c80669ac4c4fe99c5c20e14b1
+               1 File(s)             97 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\1e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               692 81c2211d5e4ed1bd4fe30b4aadba64338b5d37
+               1 File(s)            692 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\1f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               138 96b24ee40602f5ae941d4f0a6594a196f6fffc
+08/02/2023  12:38 PM               150 b0764e5baa01e7446c11d581b0d2874f164bdf
+               2 File(s)            288 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\20
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                62 b3b3f0d99f301c3c6537f9429e53c6a3f96a39
+               1 File(s)             62 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\23
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM               609 33a7fd4730ceb9974e48fad00e553a85c0790c
+               1 File(s)            609 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\24
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM        27,297,933 9496bf2b0831c3f6bfc48b57944c7a26eedf16
+               1 File(s)     27,297,933 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\25
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               157 7d9ab7ddca14845db3d90488552acdf7b6c8d3
+               1 File(s)            157 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\26
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM               254 72e7956b0568281b4049c0811bc7ca21bc4709
+08/02/2023  01:14 PM             4,447 1eeb9e9f8b2b4b0d119366dda99c6fd7d35c64
+               2 File(s)          4,701 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\27
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,161 0fd7a10d1f6f040e2edbe3323d806e5f951890
+               1 File(s)          1,161 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\2a
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,054 1a8a14d685483b117edb30c9e67a07478751d1
+               1 File(s)          1,054 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\2b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             5,999 43aa69b05b659e0c6d0f7faf641d186b0c1f3a
+               1 File(s)          5,999 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\2c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               253 e03419038fc5cc583f1d5dd9255c3f08827445
+               1 File(s)            253 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\2d
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                39 3998c9ded2a5192cec540f66f71e0751cb53b1
+               1 File(s)             39 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\2f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               259 161fbacb43be7b8738e3198d045b775c7d45d8
+               1 File(s)            259 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\30
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             3,435 bdb1363e77172e9c9f2cbaa161cc2d93650bbf
+               1 File(s)          3,435 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\31
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                62 5e55dd6910d53af1c38edb703b3964e5d89d08
+08/02/2023  12:38 PM                68 d01119388e827254001d117b6bf9f81a49fa89
+08/02/2023  12:38 PM               430 9c95680d9d69e65e4a2fc407903f82280014da
+               3 File(s)            560 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\32
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,129 3b27d12cbc4982d1695b81a602b5800384e89e
+               1 File(s)          1,129 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\33
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:14 PM    <DIR>          .
+08/02/2023  01:14 PM                59 1f404fa57f8f22ea023301fd8e36aa085693cb
+               1 File(s)             59 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\34
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               322 ac94fbc13c510115494f22f53aa09e935ec0e5
+               1 File(s)            322 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\35
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,017 b24cbf5f91a59306e4d0be515f9a206cb169e0
+               1 File(s)          1,017 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\37
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               203 7f7eb303f0601c6f546f6eba2b630b06311cb8
+               1 File(s)            203 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\38
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,737 f9ac2734a11cc72fd87c4b1a3eacc105cfb0bc
+               1 File(s)          1,737 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\3d
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                91 ccd731726d7faa8b29d8d7dba3b981a53ca497
+08/02/2023  12:38 PM             3,045 bb3dd49b989bb9aadabd47c1a90aa6e592c38a
+               2 File(s)          3,136 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\3e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               294 f74b9c69e17fd21f07b2d2dfc6a6f5dd64c69e
+               1 File(s)            294 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\3f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               339 af1ed7c91aae8fe4b2e02256f9adb7c9544dba
+               1 File(s)            339 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\42
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               684 0334d6123571772f815cd38dd62b3f9734cbbe
+               1 File(s)            684 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\43
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  02:56 PM               241 c8570f641c2f82925b97ed948ffbdb4c9ba378
+08/02/2023  12:38 PM               294 c63f71c29a76e0894f891d2bae12bae39de675
+               2 File(s)            535 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\46
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                62 4224215636c1155b92c942890be2de5662a6f6
+08/02/2023  12:38 PM               252 ed6f38114b3ba5ca1ca5caf70e90498a833a2e
+08/02/2023  12:38 PM               985 4a4cf35cd5914cce31f30a962aaa8cc92d2f44
+               3 File(s)          1,299 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\47
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               294 1c7c6bb9401d75313757cc186e171f9fd7d4aa
+               1 File(s)            294 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\48
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             5,948 6becdc40541e6e807827ca7a9e739f8ce0a725
+               1 File(s)          5,948 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\49
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,559 69b81344dbe4c50645c4edf659f9cab3585050
+               1 File(s)          1,559 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\4b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               588 9d823ecefbc382fa23e42c0b553bdc65097912
+               1 File(s)            588 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\4f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               204 2545665d773fb8f347026915bc4717d48941b5
+08/02/2023  12:38 PM               409 c7e01f553b114af47cbad3ec67fab7847b735e
+               2 File(s)            613 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\50
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               465 e92c4437b1963c5f8c3b850d880fd81b3cbb0d
+               1 File(s)            465 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\51
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                90 3c27793a495d3c9127bde635514e63473c1b23
+               1 File(s)             90 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\52
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               162 013bed8ff7ba6ee495b1db74454730d1fe23f4
+08/02/2023  12:38 PM               861 e288469acadb633733b41b610a1b5e09cc9839
+               2 File(s)          1,023 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\53
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               551 abc6c4eecf52f242a9fa116e342d232a0fa3d3
+               1 File(s)            551 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\54
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               252 5f1d19c3514b69e955b6e2867fbd1a47c27698
+               1 File(s)            252 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\55
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM             7,323 4473de27fe8d08d798c890fcb13ef3bf63fd50
+               1 File(s)          7,323 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\56
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             4,911 d007f118502923baa0fdf6d5e9f4a97b56e5c4
+               1 File(s)          4,911 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\57
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM            24,694 2e5a8dab090cb80356268040b421b338b4b5ce
+               1 File(s)         24,694 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\58
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               170 be70f9a06d28b2a818a889e8a56d065b32e381
+               1 File(s)            170 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\59
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               330 9b77bf7eaecfb3c498a662fbd50d7ffcc885b3
+08/02/2023  12:38 PM               634 0dc1eb6a9d6d59fa3c1545d38d01897f353c74
+               2 File(s)            964 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\5c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               243 5fb79533abaaf48c62733d17690fb0ef0907c1
+               1 File(s)            243 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\5e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               337 8812f921857b173b706f0d0ce1cb01896335cf
+               1 File(s)            337 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\60
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM            13,019 0d758493f78ceece75d3d6fe15dfd6847f1415
+               1 File(s)         13,019 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\64
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               176 b292a5f98385d5c0046cf55ede2e06efcc5037
+08/02/2023  12:38 PM               337 6e7d0756a1517c8ff3415e970ee57f41c3019b
+08/02/2023  12:38 PM             4,152 1cd5de3f8eb2884c6d823a0d55db8259579142
+               3 File(s)          4,665 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\65
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                47 7c8e7e064ab6f995a8e0b8e5984ca6690ce1d5
+08/02/2023  12:37 PM            64,277 9db559a481a1b616d2c5bdf4c268bb3019c8d4
+               2 File(s)         64,324 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\66
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:37 PM                41 8a3f842342c0f1a974a6cea565e37d77604093
+08/02/2023  12:38 PM               231 e98f266c034197985625c8c7c381fb32dbf258
+               2 File(s)            272 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\68
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  02:56 PM               155 f4d7bc611142f17afeaabc39aa00505c707e60
+08/02/2023  12:38 PM               185 4e793d41a3a214de1fe8d96e392bdd90f3ade9
+               2 File(s)            340 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\69
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                78 f971203ac30fa26bc7437d3897a35a23390268
+08/02/2023  12:38 PM             1,858 0f0fdeabf0c318de08bd509d6c814f4118e66a
+               2 File(s)          1,936 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6a
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             1,533 027ae0780d4ecf662895b688a0cdf7c46b8538
+               1 File(s)          1,533 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               294 5d221a16582ec0997429b7bcf4f244e00da73d
+08/02/2023  12:37 PM            33,624 24e4e056670c67aafc99550273af3e3837bb73
+               2 File(s)         33,918 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               234 dd60512ad1358723f5d261699432cdb1a77e0e
+08/02/2023  12:38 PM               610 5e9f09654cd1da1acc1cc5820770d1df7fd515
+               2 File(s)            844 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6d
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               234 0d7b5086e36c1743b9b79dba91a340a82091f2
+               1 File(s)            234 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               126 4be0677087441edc86333f8b6389e42b804d9a
+               1 File(s)            126 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\6f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM                86 20aef7888792f5e50f4d8e393a9a62a3c9b009
+08/02/2023  12:38 PM               723 256291658b207d0ad2a839c2414f0dceffe952
+               2 File(s)            809 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\70
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               190 866380c5048b39d3f9a009b3658c13db730395
+08/02/2023  12:38 PM               210 6cce7d652858c416cb7574dc9307dc79f068a0
+08/02/2023  12:38 PM             1,366 ad59667bc23629b7fa8e7f574f36408d6ea578
+               3 File(s)          1,766 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\71
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               277 2b50c198532f632ff184661b1da3bfcd0aa476
+08/02/2023  12:38 PM               733 b8d904720b5b4d836e1b718b3c8d92641f75b2
+               2 File(s)          1,010 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\72
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               153 d141a77660a949f2ee7064e88249d539180b99
+               1 File(s)            153 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\73
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             2,621 2240527568e29432083b9eb4609a1f1414fa26
+               1 File(s)          2,621 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\74
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               902 f58ea099afc778ff5bbbaedc44e6c3208a47c9
+               1 File(s)            902 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\75
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               197 50de63818583940c41b261f9cd8d1f14b29f82
+               1 File(s)            197 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\77
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               591 8aee963ce5a1b152013d60b959b0bc57b134ee
+               1 File(s)            591 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\79
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               153 e7ee79112f460ba9a92fb6d4cc9f9e89e6338b
+08/02/2023  12:38 PM               899 07143a645b82771a511d9cdc2e664c53e2ac45
+08/02/2023  12:38 PM        25,536,101 b2ccde8e9706493bafca5218e442fb6d05a8d6
+               3 File(s)     25,537,153 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\7a
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               220 837e1fc5a2b9b6be5df8ba14c44221e8e056ed
+08/02/2023  12:38 PM             5,397 d4e9579994962f64d8a6a3a0f5ff7974fd0d2f
+               2 File(s)          5,617 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\7b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM            12,432 0f72eb10501198d6fa715d8af48475d7c0c623
+               1 File(s)         12,432 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\7c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM            52,815 e5af4538ea85d2218080a59cc31ea2cadaffa8
+               1 File(s)         52,815 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\7e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               373 06cb5b8c8d322fdea8ec795ca3ed38be55113a
+08/02/2023  12:38 PM             1,048 60a466057554eb68ee2f64b69df96207b0afdf
+               2 File(s)          1,421 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\7f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM                86 aac757b31ec327710ca593098399c7e22a4b9e
+08/02/2023  12:38 PM               185 4a4acbfc05251961e5ddcffe56e3aa87f6ac03
+               2 File(s)            271 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\81
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               763 640e730565c9afa00d58d6d33b8f51cf860d1a
+08/02/2023  12:38 PM             1,926 43d1b13e320da8679dd1c1a57103de414c5d47
+               2 File(s)          2,689 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\84
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               682 ce03cd7792171ed76453fe8b849e1822c8f82d
+               1 File(s)            682 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\85
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             3,716 75ee7965266cffc990a79d4d5454f0d4a5b6c9
+               1 File(s)          3,716 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\87
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               151 0eb31425752f456f134dfc1f24cebaeaf52bbb
+08/02/2023  12:38 PM               207 c0086de751bac3d47208b77d76b82d78f26702
+08/02/2023  12:38 PM               367 9f8391facb4843a9262c856277b9d4b7b2b3da
+               3 File(s)            725 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\88
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               158 a550947edbc3c5003a41726f0749201fdb6822
+08/02/2023  12:38 PM               163 8055268bcbbb5b745515466e4647b54bcb3ea4
+               2 File(s)            321 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\8a
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               239 f4f9053d9a0631748c59c3035cbe0e0627a8e2
+08/02/2023  12:38 PM               897 7462c3b1e81e91c33298afd11c963ac8df8b02
+               2 File(s)          1,136 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\8b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                85 9aba93827a07eccc3b512f0473957f45b526b4
+08/02/2023  12:38 PM             5,540 a8b7b7338ebc29b104a69a8fdde4abb84ffe7b
+               2 File(s)          5,625 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\8c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  02:56 PM               718 2c7d6473faac2aec8a6163155a5ec81b4fb39d
+               1 File(s)            718 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\90
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  12:38 PM               348 1752f92591f8c0e351d30d9851336010676e2e
+08/02/2023  01:15 PM               746 741aa156587b1b8feb287dc9ff269ac7c847d1
+08/02/2023  12:38 PM        43,629,494 6323889d966b6486898c8961e5ceee881cfc8a
+               3 File(s)     43,630,588 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\93
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               176 ef43211fb9a0e3e0566e59561194f410dbb1b4
+               1 File(s)            176 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\94
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                67 aa32c01f98f5800b1ce1c138ff8bada5f0ac3f
+               1 File(s)             67 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\95
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM                78 25e212bda3bbb05b5ae3adb8efeee4e5b56c74
+               1 File(s)             78 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\97
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:14 PM    <DIR>          .
+08/02/2023  01:14 PM                57 be80ffdfe598dcafdfb7d113df4e683c74b069
+               1 File(s)             57 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\98
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                64 f1e3af084f38129d4eba99e0a5d60f9e7cec27
+08/02/2023  12:38 PM               175 faa6d82534571871bb6e6938e62bf5f051a2d5
+               2 File(s)            239 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\99
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                78 66adcb6ba665da13c5334d012fe6d5ff0d6f2f
+               1 File(s)             78 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\9b
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                70 5f49fa9f143f56b40df1fe0b2d083ebd1f0cfb
+08/02/2023  12:38 PM               343 95d53e08c76ccac68a5027f4b8825d605f181a
+               2 File(s)            413 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\9c
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:14 PM    <DIR>          .
+08/02/2023  01:14 PM                60 a0b492f41a8badde7101dd88f3588e3935950a
+               1 File(s)             60 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\9e
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               979 e3bd02c6d9ec0cf1f3342ae833367fe6f15248
+               1 File(s)            979 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\9f
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM           175,861 5a04472d8184f0360d3e7fb8f6ed25c4e1ebcf
+               1 File(s)        175,861 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a0
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               787 63d5a4d3d0f69bb620a1e35c4e456b766aeb18
+               1 File(s)            787 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a1
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM               231 49c0be3ceac8b8b93207ba795bca48e8c18183
+08/02/2023  12:38 PM               275 667952f6ec824cec7e3578274ea1331b716cb5
+               2 File(s)            506 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a3
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM            11,251 b0fb1a65b92e23fc1f82c42144ed77ed579e12
+               1 File(s)         11,251 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a5
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM        26,076,505 0c546c2338a65c333ee15f8ed98bb45ac2373e
+               1 File(s)     26,076,505 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a6
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               586 41824568b35153a86f17e29ed2b8be117c2305
+               1 File(s)            586 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a7
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:14 PM    <DIR>          .
+08/02/2023  01:14 PM                58 f066d969b78f3029c06172de4e1cee3192b328
+08/02/2023  12:38 PM               148 bd170fe42941fdfbb199d768b1b25d269ade4d
+               2 File(s)            206 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                73 b119ba8cf16f3f98f39c41586c10a36d510e79
+08/02/2023  12:38 PM             1,171 1244f37ecf50430bdddba61cd5ed0aa7fc19d6
+08/02/2023  12:38 PM            44,887 790af55ffe913a7d3aedfea7a5908e9e1ee242
+               3 File(s)         46,131 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\a9
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM               155 739ef31e23d6516f3a7b887ec5911351ad5627
+               1 File(s)            155 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ac
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  01:15 PM    <DIR>          .
+08/02/2023  01:15 PM               232 27d442e725539f48260ec83590bd92f0aee076
+               1 File(s)            232 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ad
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               186 a8a52b84dbc690307207139b1c7b50b076c2ad
+08/02/2023  12:38 PM               237 578ba1c03e8ab2891a3ad14b3eab503b9a4201
+               2 File(s)            423 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ae
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               223 38ee5c8dd885cb5017c851979b6ed7554159da
+08/02/2023  12:38 PM            12,436 f20ce77e257a1cc622a657d21896420be6b191
+               2 File(s)         12,659 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\af
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               332 2ed650fd8f2c1f89448d6533d5fd83a8835be5
+               1 File(s)            332 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b0
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                63 47f7b3290a012e06b6bf7a13bff4185aeeb9ed
+08/02/2023  12:38 PM               293 ae269c1c94cd33576765362dbbe9d029f1c616
+08/02/2023  12:38 PM               328 7f2ac4f30b293550b8f5e84b0192e785a5eeb6
+08/02/2023  12:38 PM               469 3986992adccac4f1c88d8b634fc529107e0eae
+08/02/2023  12:38 PM               709 b4f636d81e06f7cdd8675a0ccbf80814c94070
+               5 File(s)          1,862 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b1
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               173 9b620794929b763f63d8eab80023c3a248af60
+08/02/2023  12:38 PM               178 014dc24790838386188f2eafdf6c30eb455da3
+               2 File(s)            351 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b2
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               831 5109f2ead55c83f16693b9b30926af7daebbe6
+               1 File(s)            831 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b3
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                78 316ca7c1c83b34c7a4a88652ff5e322aa8130d
+08/02/2023  12:38 PM               174 1fb91c8687ca3545b5edcf69bc4b38c0ac0aa1
+               2 File(s)            252 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b6
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               193 1c7dc1ce15dc19d109883fbd0aff555ab8e11b
+08/02/2023  12:38 PM               469 36457e5dff1623f25af4caf984a09fee0a477e
+               2 File(s)            662 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b7
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               194 a3f201d659a42263eeb3691f6152b550879cfa
+               1 File(s)            194 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                62 bd5bd568c23c72653636f2ac473456d90d2288
+               1 File(s)             62 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\b9
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               642 527d3feeede440684e8569fd414c0c7f56d890
+08/02/2023  12:38 PM               668 8b011d63ae9fd78ecdc356f9a7c8dfcee0c31c
+08/02/2023  12:38 PM             1,006 6309942b3706b9b306c311378e65f6e121dac9
+               3 File(s)          2,316 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ba
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM        31,318,082 c844a46c6559a56f8d2c69a4dece6d3388e95a
+               1 File(s)     31,318,082 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\bb
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                86 8c4e6c8720aa434f66aa65a3432a646b952e81
+08/02/2023  12:38 PM               194 4191d56ea0693e23667f1e2516958ff74b296f
+               2 File(s)            280 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\bd
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               338 fca047563949dcf72189d1316eb4c7c358eb72
+08/02/2023  12:38 PM        26,716,343 5780a9c39f010fd4e0eee41d41cc3fe3dd3c8e
+               2 File(s)     26,716,681 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\be
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               373 39618f0c9a93285f04147036ac0c4dbf10f819
+08/02/2023  12:38 PM               392 d327056a69c6ff4c96f1c4b14e9fe60a11b56d
+               2 File(s)            765 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\bf
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM        26,127,720 a7f50760ddef3116b6dab9bb2625b4372d702f
+               1 File(s)     26,127,720 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\c0
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               634 09f0dff8c987a530bb75f9477a3241c85ff50d
+08/02/2023  12:38 PM               745 a4c37bb6826339a6fd26402e6c332526f3932d
+               2 File(s)          1,379 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\c6
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               241 6a5fb9f5c8db00d512092b85ef178d2e0c8842
+               1 File(s)            241 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\c8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                43 8a0e352ae5eba6ed1dad2952baa284de6ecc35
+               1 File(s)             43 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\c9
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               140 3e2874760195f1406b5acb89c32202d4d7e89b
+               1 File(s)            140 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\cb
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                60 89bc551bce74caa671f3ddb68219f906aaa06f
+08/02/2023  12:38 PM                65 8e58ccbf30cf290ef24894f665669f20109f30
+08/02/2023  12:38 PM               684 d74e8df202493e7c4d033cbd594db3e392192d
+               3 File(s)            809 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ce
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               328 8af7627f3b4573fb5d7d3bc8208287dc6245a2
+               1 File(s)            328 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\d1
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             6,337 f792aaa4dfed136fbe0b7c9edf885ac4dece40
+               1 File(s)          6,337 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\d2
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               664 de4bd08a46d4c8d79be252813996ec04bc458a
+               1 File(s)            664 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\d4
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               240 91905f2be760b56822ad311034cb4851956c1c
+08/02/2023  12:38 PM               252 5394dfa7750743fd9da64b21e26eeb52c5b975
+08/02/2023  12:38 PM               615 ba721d4a8c10ac258edd5f0e3c26cfac2ad88b
+               3 File(s)          1,107 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\d8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                64 9e1ebfe10631133644f0bba1b8893b2dfbd521
+               1 File(s)             64 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\d9
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               557 0f9359be4c86bf13c597180de1729e266bbd61
+08/02/2023  12:38 PM             6,356 b8b645cd00c83c564f96825208861c684a12a5
+               2 File(s)          6,913 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\da
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               558 0459e8f46579732151a9c59f13051f8a734d42
+               1 File(s)            558 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\db
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               241 a7167c2adc7a0dd69f5bcaf721d446f1fe0e93
+08/02/2023  12:38 PM               253 4847575717d611233eff9a2e0c9d8272384d19
+               2 File(s)            494 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\dc
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               511 ddab4650b7813587bd1914f4373e64197fcfd8
+08/02/2023  12:38 PM             1,542 931d10b7c408e00bcf3cd4bbcfbbe5badaf8e9
+               2 File(s)          2,053 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\de
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                43 90f20f9a5779c1f9245ddd7f2b9a0c4757e5ec
+08/02/2023  12:38 PM             3,079 0c504a56a5f6a21fb35e5ebf36d272cd280e6d
+               2 File(s)          3,122 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e0
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               172 671972fe1c280b0329c08644e1d0ccdf59e19a
+               1 File(s)            172 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e1
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                83 490d9a5d3af374f01fe04429629a1307d8d1a3
+08/02/2023  12:38 PM               161 deade366d7d6525a55da772a9e60913d4b7005
+08/02/2023  12:38 PM               181 cc8bb5cd42b0590831981ef9ae472e7ff5c03f
+               3 File(s)            425 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e2
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:37 PM    <DIR>          .
+08/02/2023  12:37 PM             2,153 7e360440a8ebe4b00c0872a16f5b167d06dcaf
+               1 File(s)          2,153 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e3
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               365 f7c5d1cab1040fa58cdb3341aafa1704aa5b60
+08/02/2023  12:38 PM               365 91dc5a5422c916a2689182dd12f2d9c56925ff
+               2 File(s)            730 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e6
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+08/02/2023  12:38 PM                63 e46a987b4056f1f77cb1cd19478f012f273bd3
+               2 File(s)             78 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\e8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               764 65d17014806406a5631686afeff79d84602bad
+               1 File(s)            764 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\eb
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               176 465542f776fb0bab1b198a8b1d2663f72d9555
+08/02/2023  12:38 PM               181 1a5e81eb6ac2d71a11dfa4fb3ba7366f551204
+               2 File(s)            357 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ec
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               340 3127e0e2dd33442be2d4f536fddca332a8284d
+               1 File(s)            340 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ed
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               258 086c3b2f624e9d117599ccc11dd4557f0b38a2
+08/02/2023  12:38 PM               583 9aad54a35b3c93577869dcda42bbb825e62faa
+               2 File(s)            841 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\ef
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               772 bc6757e2a6682916a8fc782049256201501037
+08/02/2023  12:38 PM             5,373 b947d911e761da60665b9f3929a77be52cb6c5
+               2 File(s)          6,145 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f0
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               171 db0b48186f8f455e42ea660443c0fd0fd441e7
+               1 File(s)            171 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f1
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM             4,617 790246bd4713b8d2f21e688d1b4fc289e64854
+               1 File(s)          4,617 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f4
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                62 a2efe9fe6de7f64529995276203d369aa0f371
+               1 File(s)             62 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f5
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               259 19b6027c6900b076cc0bf9ddd464558545e609
+               1 File(s)            259 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f7
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               117 aec8cc15d0b152e8752dcd25198a191020ceb3
+               1 File(s)            117 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f8
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               176 a0ed347b163630bf9c2f26a196c699ac9c70fa
+08/02/2023  12:38 PM               213 cffc699c0d1e235e05716e9422c1772eede87f
+               2 File(s)            389 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\f9
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                90 21d9cd14d4062521eacfb07898e92689f0270f
+08/02/2023  12:38 PM               194 c3e0f1fc3d046fdbb1b76cc2dbde2e81a12f8b
+               2 File(s)            284 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\fa
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               430 1a2198c755369276d634669122583205c834cf
+               1 File(s)            430 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\fc
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM               239 96065582387464305ac1f58f634ae9a56920cb
+               1 File(s)            239 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\fe
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:38 PM    <DIR>          .
+08/02/2023  12:38 PM                53 feaf04b19338c627b641afbfc7d4c2343ecdfa
+               1 File(s)             53 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\info
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:33 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\objects\pack
+
+08/02/2023  02:56 PM    <DIR>          ..
+08/02/2023  12:33 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\refs
+
+08/02/2023  02:56 PM    <DIR>          heads
+08/02/2023  12:33 PM    <DIR>          tags
+08/02/2023  12:33 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\refs\heads
+
+08/02/2023  12:33 PM    <DIR>          ..
+08/02/2023  02:56 PM    <DIR>          .
+08/02/2023  02:56 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\.git\refs\tags
+
+08/02/2023  12:33 PM    <DIR>          ..
+08/02/2023  12:33 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build
+
+08/02/2023  01:30 PM    <DIR>          .
+08/02/2023  03:04 PM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          x64
+08/02/2023  12:23 PM    <DIR>          Release
+08/02/2023  06:34 AM    <DIR>          my-project-test.dir
+08/02/2023  06:34 AM    <DIR>          my-project-lib.dir
+08/02/2023  06:34 AM    <DIR>          CMakeFiles
+08/02/2023  06:34 AM    <DIR>          my-project-exe.dir
+08/02/2023  12:23 PM    <DIR>          Debug
+08/01/2023  04:05 PM               168 ALL_BUILD.vcxproj.user
+08/01/2023  04:05 PM               168 my-project-exe.vcxproj.user
+08/01/2023  04:07 PM               168 my-project-test.vcxproj.user
+08/01/2023  04:10 PM               168 my-project-lib.vcxproj.user
+08/01/2023  04:00 PM               310 ALL_BUILD.vcxproj.filters
+08/01/2023  04:00 PM               553 ZERO_CHECK.vcxproj.filters
+08/01/2023  04:00 PM               554 RUN_TESTS.vcxproj.filters
+08/01/2023  04:00 PM               605 CTestTestfile.cmake
+08/01/2023  04:00 PM               959 my-project-exe.vcxproj.filters
+08/01/2023  04:00 PM             1,455 my-project-test.vcxproj.filters
+08/01/2023  04:00 PM             1,497 cmake_install.cmake
+08/01/2023  04:13 PM             3,412 my-project-lib.vcxproj.filters
+08/01/2023  04:00 PM             5,991 my-project.sln
+08/01/2023  04:00 PM             9,751 RUN_TESTS.vcxproj
+08/01/2023  04:00 PM            14,648 CMakeCache.txt
+08/01/2023  04:00 PM            46,602 ZERO_CHECK.vcxproj
+08/01/2023  04:00 PM            47,480 ALL_BUILD.vcxproj
+08/02/2023  06:29 AM            58,497 my-project-lib.vcxproj
+08/02/2023  06:29 AM            63,452 my-project-exe.vcxproj
+08/02/2023  06:29 AM            63,805 my-project-test.vcxproj
+              20 File(s)        320,243 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles
+
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  01:30 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          3.24.0
+08/01/2023  04:00 PM    <DIR>          pkgRedirects
+08/01/2023  04:00 PM    <DIR>          f90168ed3517443df043cd6b72a4c4fd
+08/01/2023  04:00 PM    <DIR>          CMakeTmp
+08/02/2023  06:34 AM                55 generate.stamp
+08/01/2023  04:00 PM                86 cmake.check_cache
+08/01/2023  04:00 PM                89 generate.stamp.list
+08/01/2023  04:00 PM               545 TargetDirectories.txt
+08/01/2023  04:00 PM             7,531 CMakeOutput.log
+08/01/2023  04:00 PM             9,168 generate.stamp.depend
+               6 File(s)         17,474 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0
+
+08/01/2023  04:00 PM    <DIR>          .
+08/02/2023  06:34 AM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          CompilerIdCXX
+08/01/2023  04:00 PM    <DIR>          CompilerIdC
+08/01/2023  04:00 PM    <DIR>          x64
+08/01/2023  04:00 PM                83 VCTargetsPath.txt
+08/01/2023  04:00 PM               212 CMakeRCCompiler.cmake
+08/01/2023  04:00 PM               395 CMakeSystem.cmake
+08/01/2023  04:00 PM             1,255 VCTargetsPath.vcxproj
+08/01/2023  04:00 PM             2,571 CMakeCCompiler.cmake
+08/01/2023  04:00 PM             5,505 CMakeCXXCompiler.cmake
+08/01/2023  04:00 PM            51,200 CMakeDetermineCompilerABI_C.bin
+08/01/2023  04:00 PM            51,200 CMakeDetermineCompilerABI_CXX.bin
+               8 File(s)        112,421 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdC
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          tmp
+08/01/2023  04:00 PM    <DIR>          Debug
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM             2,748 CompilerIdC.vcxproj
+08/01/2023  04:00 PM            14,848 CompilerIdC.exe
+08/01/2023  04:00 PM            26,691 CMakeCCompilerId.c
+               3 File(s)         44,287 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdC\Debug
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          CompilerIdC.tlog
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM                28 _IsIncrementalBuild
+08/01/2023  04:00 PM               350 CompilerIdC.exe.recipe
+08/01/2023  04:00 PM             2,326 CMakeCCompilerId.obj
+               3 File(s)          2,704 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdC\Debug\CompilerIdC.tlog
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM               221 CompilerIdC.lastbuildstate
+08/01/2023  04:00 PM               462 link.write.1.tlog
+08/01/2023  04:00 PM               468 CL.write.1.tlog
+08/01/2023  04:00 PM               824 CL.command.1.tlog
+08/01/2023  04:00 PM             1,066 link.command.1.tlog
+08/01/2023  04:00 PM             2,490 CL.read.1.tlog
+08/01/2023  04:00 PM             4,776 link.read.1.tlog
+               7 File(s)         10,307 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdC\tmp
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdCXX
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          tmp
+08/01/2023  04:00 PM    <DIR>          Debug
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM             2,756 CompilerIdCXX.vcxproj
+08/01/2023  04:00 PM            15,360 CompilerIdCXX.exe
+08/01/2023  04:00 PM            26,423 CMakeCXXCompilerId.cpp
+               3 File(s)         44,539 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdCXX\Debug
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          CompilerIdCXX.tlog
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM                28 _IsIncrementalBuild
+08/01/2023  04:00 PM               354 CompilerIdCXX.exe.recipe
+08/01/2023  04:00 PM             2,357 CMakeCXXCompilerId.obj
+               3 File(s)          2,739 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdCXX\Debug\CompilerIdCXX.tlog
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM               223 CompilerIdCXX.lastbuildstate
+08/01/2023  04:00 PM               478 link.write.1.tlog
+08/01/2023  04:00 PM               488 CL.write.1.tlog
+08/01/2023  04:00 PM               848 CL.command.1.tlog
+08/01/2023  04:00 PM             1,090 link.command.1.tlog
+08/01/2023  04:00 PM             2,512 CL.read.1.tlog
+08/01/2023  04:00 PM             4,792 link.read.1.tlog
+               7 File(s)         10,431 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\CompilerIdCXX\tmp
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\x64
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          Debug
+08/01/2023  04:00 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\x64\Debug
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          VCTargetsPath.tlog
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM                32 _IsIncrementalBuild
+08/01/2023  04:00 PM               346 VCTargetsPath.recipe
+               2 File(s)            378 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\3.24.0\x64\Debug\VCTargetsPath.tlog
+
+08/01/2023  04:00 PM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+08/01/2023  04:00 PM               209 VCTargetsPath.lastbuildstate
+               1 File(s)            209 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\CMakeTmp
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\f90168ed3517443df043cd6b72a4c4fd
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+12/31/2000  08:00 PM                24 RUN_TESTS_force.rule
+12/31/2000  08:00 PM                24 generate.stamp.rule
+               2 File(s)             48 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\CMakeFiles\pkgRedirects
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/01/2023  04:00 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\Debug
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/02/2023  12:23 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-exe.dir
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/02/2023  12:24 PM    <DIR>          Debug
+08/02/2023  12:25 PM    <DIR>          Release
+08/02/2023  06:34 AM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-exe.dir\Debug
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          my-project-exe.tlog
+08/02/2023  06:29 AM                 0 my-project-exe.vcxproj.FileListAbsolute.txt
+08/02/2023  12:24 PM    <DIR>          .
+08/02/2023  06:30 AM                47 _IsIncrementalBuild
+08/02/2023  06:30 AM               225 my-project-exe.log
+08/02/2023  06:30 AM               483 my-project-exe.exe.recipe
+08/02/2023  06:29 AM             1,718 my-project-exe.Build.CppClean.log
+               5 File(s)          2,473 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-exe.dir\Debug\my-project-exe.tlog
+
+08/02/2023  12:24 PM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          .
+08/02/2023  06:30 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:30 AM               191 my-project-exe.lastbuildstate
+08/02/2023  06:30 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:30 AM               530 CL.write.1.tlog
+08/02/2023  06:30 AM               762 link.write.1.tlog
+08/02/2023  06:30 AM             1,616 CL.command.1.tlog
+08/02/2023  06:30 AM             3,312 link.command.1.tlog
+08/02/2023  06:30 AM             7,706 link.read.1.tlog
+08/02/2023  06:30 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:30 AM            59,008 CL.read.1.tlog
+              10 File(s)         82,925 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-exe.dir\Release
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM                 0 my-project-exe.Build.CppClean.log
+08/02/2023  06:34 AM    <DIR>          my-project-exe.tlog
+08/02/2023  06:34 AM                 0 my-project-exe.vcxproj.FileListAbsolute.txt
+08/02/2023  12:25 PM    <DIR>          .
+08/02/2023  06:34 AM                49 _IsIncrementalBuild
+08/02/2023  06:34 AM               227 my-project-exe.log
+08/02/2023  06:34 AM               487 my-project-exe.exe.recipe
+               5 File(s)            763 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-exe.dir\Release\my-project-exe.tlog
+
+08/02/2023  12:25 PM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:34 AM               193 my-project-exe.lastbuildstate
+08/02/2023  06:34 AM               338 CL.write.1.tlog
+08/02/2023  06:34 AM               380 link.write.1.tlog
+08/02/2023  06:34 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:34 AM             1,626 CL.command.1.tlog
+08/02/2023  06:34 AM             3,256 link.command.1.tlog
+08/02/2023  06:34 AM             6,786 link.read.1.tlog
+08/02/2023  06:34 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:34 AM            59,008 CL.read.1.tlog
+              10 File(s)         81,387 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-lib.dir
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/02/2023  12:26 PM    <DIR>          Debug
+08/02/2023  12:27 PM    <DIR>          Release
+08/02/2023  06:34 AM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-lib.dir\Debug
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:29 AM                 0 my-project-lib.vcxproj.FileListAbsolute.txt
+08/02/2023  06:30 AM    <DIR>          my-project-lib.tlog
+08/02/2023  12:26 PM    <DIR>          .
+08/02/2023  06:30 AM                47 _IsIncrementalBuild
+08/02/2023  06:30 AM               325 my-project-lib.lib.recipe
+08/02/2023  06:30 AM             1,555 my-project-lib.log
+08/02/2023  06:29 AM             2,936 my-project-lib.Build.CppClean.log
+               5 File(s)          4,863 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-lib.dir\Debug\my-project-lib.tlog
+
+08/02/2023  12:26 PM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          .
+08/02/2023  06:29 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:30 AM               191 my-project-lib.lastbuildstate
+08/02/2023  06:29 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:30 AM             3,188 Lib-link.write.1.tlog
+08/02/2023  06:30 AM             4,624 Lib.command.1.tlog
+08/02/2023  06:30 AM             7,116 Lib.read.1.tlog
+08/02/2023  06:29 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:30 AM            10,852 CL.write.1.tlog
+08/02/2023  06:30 AM            25,362 CL.command.1.tlog
+08/02/2023  06:30 AM           710,332 CL.read.1.tlog
+              10 File(s)        771,465 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-lib.dir\Release
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM                 0 my-project-lib.Build.CppClean.log
+08/02/2023  06:34 AM                 0 my-project-lib.vcxproj.FileListAbsolute.txt
+08/02/2023  06:34 AM    <DIR>          my-project-lib.tlog
+08/02/2023  12:27 PM    <DIR>          .
+08/02/2023  06:34 AM                49 _IsIncrementalBuild
+08/02/2023  06:34 AM               327 my-project-lib.lib.recipe
+08/02/2023  06:34 AM             1,557 my-project-lib.log
+               5 File(s)          1,933 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-lib.dir\Release\my-project-lib.tlog
+
+08/02/2023  12:27 PM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:34 AM               193 my-project-lib.lastbuildstate
+08/02/2023  06:34 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:34 AM             3,248 Lib-link.write.1.tlog
+08/02/2023  06:34 AM             4,740 Lib.command.1.tlog
+08/02/2023  06:34 AM             5,654 CL.write.1.tlog
+08/02/2023  06:34 AM             7,228 Lib.read.1.tlog
+08/02/2023  06:34 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:34 AM            25,502 CL.command.1.tlog
+08/02/2023  06:34 AM           710,332 CL.read.1.tlog
+              10 File(s)        766,697 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-test.dir
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/02/2023  12:28 PM    <DIR>          Debug
+08/02/2023  12:28 PM    <DIR>          Release
+08/02/2023  06:34 AM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-test.dir\Debug
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:29 AM                 0 my-project-test.vcxproj.FileListAbsolute.txt
+08/02/2023  06:30 AM    <DIR>          my-project-test.tlog
+08/02/2023  12:28 PM    <DIR>          .
+08/02/2023  06:30 AM                48 _IsIncrementalBuild
+08/02/2023  06:30 AM               275 my-project-test.log
+08/02/2023  06:30 AM               484 my-project-test.exe.recipe
+08/02/2023  06:29 AM             1,854 my-project-test.Build.CppClean.log
+08/02/2023  06:30 AM           179,833 tests.obj
+               6 File(s)        182,494 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-test.dir\Debug\my-project-test.tlog
+
+08/02/2023  12:28 PM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          .
+08/02/2023  06:30 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:30 AM               191 my-project-test.lastbuildstate
+08/02/2023  06:30 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:30 AM               994 link.write.1.tlog
+08/02/2023  06:30 AM             1,638 CL.write.1.tlog
+08/02/2023  06:30 AM             3,306 CL.command.1.tlog
+08/02/2023  06:30 AM             3,652 link.command.1.tlog
+08/02/2023  06:30 AM             8,136 link.read.1.tlog
+08/02/2023  06:30 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:30 AM            83,344 CL.read.1.tlog
+              10 File(s)        111,061 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-test.dir\Release
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM                 0 my-project-test.Build.CppClean.log
+08/02/2023  06:34 AM    <DIR>          my-project-test.tlog
+08/02/2023  06:34 AM                 0 my-project-test.vcxproj.FileListAbsolute.txt
+08/02/2023  12:28 PM    <DIR>          .
+08/02/2023  06:34 AM                50 _IsIncrementalBuild
+08/02/2023  06:34 AM               277 my-project-test.log
+08/02/2023  06:34 AM               488 my-project-test.exe.recipe
+               5 File(s)            815 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\my-project-test.dir\Release\my-project-test.tlog
+
+08/02/2023  12:28 PM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:34 AM               193 my-project-test.lastbuildstate
+08/02/2023  06:34 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:34 AM               610 link.write.1.tlog
+08/02/2023  06:34 AM               738 CL.write.1.tlog
+08/02/2023  06:34 AM             3,326 CL.command.1.tlog
+08/02/2023  06:34 AM             3,600 link.command.1.tlog
+08/02/2023  06:34 AM             7,244 link.read.1.tlog
+08/02/2023  06:34 AM             9,113 CustomBuild.read.1.tlog
+08/02/2023  06:34 AM            83,344 CL.read.1.tlog
+              10 File(s)        108,855 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\Release
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/02/2023  12:23 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64
+
+08/02/2023  01:30 PM    <DIR>          ..
+08/01/2023  04:05 PM    <DIR>          Debug
+08/02/2023  06:34 AM    <DIR>          Release
+08/02/2023  06:34 AM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Debug
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          ALL_BUILD
+08/02/2023  06:29 AM    <DIR>          ZERO_CHECK
+08/01/2023  04:05 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Debug\ALL_BUILD
+
+08/01/2023  04:05 PM    <DIR>          ..
+08/02/2023  06:29 AM                 0 ALL_BUILD.vcxproj.FileListAbsolute.txt
+08/02/2023  06:30 AM    <DIR>          ALL_BUILD.tlog
+08/02/2023  06:30 AM    <DIR>          .
+08/02/2023  06:30 AM                42 _IsIncrementalBuild
+08/02/2023  06:30 AM                98 ALL_BUILD.log
+08/02/2023  06:29 AM               459 ALL_BUILD.Build.CppClean.log
+08/02/2023  06:30 AM               795 ALL_BUILD.recipe
+               5 File(s)          1,394 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Debug\ALL_BUILD\ALL_BUILD.tlog
+
+08/02/2023  06:30 AM    <DIR>          ..
+08/02/2023  06:30 AM    <DIR>          .
+08/02/2023  06:30 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:30 AM               191 ALL_BUILD.lastbuildstate
+08/02/2023  06:30 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:30 AM             9,113 CustomBuild.read.1.tlog
+               4 File(s)          9,991 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Debug\ZERO_CHECK
+
+08/01/2023  04:05 PM    <DIR>          ..
+08/02/2023  06:29 AM    <DIR>          ZERO_CHECK.tlog
+08/02/2023  06:29 AM                 0 ZERO_CHECK.vcxproj.FileListAbsolute.txt
+08/02/2023  06:29 AM    <DIR>          .
+08/02/2023  06:29 AM                28 ZERO_CHECK.log
+08/02/2023  06:29 AM                43 _IsIncrementalBuild
+08/02/2023  06:29 AM               325 ZERO_CHECK.recipe
+08/02/2023  06:29 AM               465 ZERO_CHECK.Build.CppClean.log
+               5 File(s)            861 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog
+
+08/02/2023  06:29 AM    <DIR>          ..
+08/02/2023  06:29 AM    <DIR>          .
+08/02/2023  06:29 AM               191 ZERO_CHECK.lastbuildstate
+08/02/2023  06:29 AM               217 CustomBuild.write.1.tlog
+08/02/2023  06:29 AM               619 CustomBuild.command.1.tlog
+08/02/2023  06:29 AM             9,240 CustomBuild.read.1.tlog
+               4 File(s)         10,267 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Release
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          ALL_BUILD
+08/02/2023  06:34 AM    <DIR>          ZERO_CHECK
+08/02/2023  06:34 AM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Release\ALL_BUILD
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM                 0 ALL_BUILD.Build.CppClean.log
+08/02/2023  06:34 AM                 0 ALL_BUILD.vcxproj.FileListAbsolute.txt
+08/02/2023  06:34 AM    <DIR>          ALL_BUILD.tlog
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM                44 _IsIncrementalBuild
+08/02/2023  06:34 AM                98 ALL_BUILD.log
+08/02/2023  06:34 AM               803 ALL_BUILD.recipe
+               5 File(s)            945 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Release\ALL_BUILD\ALL_BUILD.tlog
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM               162 CustomBuild.write.1.tlog
+08/02/2023  06:34 AM               193 ALL_BUILD.lastbuildstate
+08/02/2023  06:34 AM               525 CustomBuild.command.1.tlog
+08/02/2023  06:34 AM             9,113 CustomBuild.read.1.tlog
+               4 File(s)          9,993 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Release\ZERO_CHECK
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM                 0 ZERO_CHECK.Build.CppClean.log
+08/02/2023  06:34 AM    <DIR>          ZERO_CHECK.tlog
+08/02/2023  06:34 AM                 0 ZERO_CHECK.vcxproj.FileListAbsolute.txt
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM                28 ZERO_CHECK.log
+08/02/2023  06:34 AM                45 _IsIncrementalBuild
+08/02/2023  06:34 AM               327 ZERO_CHECK.recipe
+               5 File(s)            400 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\x64\Release\ZERO_CHECK\ZERO_CHECK.tlog
+
+08/02/2023  06:34 AM    <DIR>          ..
+08/02/2023  06:34 AM    <DIR>          .
+08/02/2023  06:34 AM               193 ZERO_CHECK.lastbuildstate
+08/02/2023  06:34 AM               217 CustomBuild.write.1.tlog
+08/02/2023  06:34 AM               619 CustomBuild.command.1.tlog
+08/02/2023  06:34 AM             9,240 CustomBuild.read.1.tlog
+               4 File(s)         10,269 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main
+
+08/02/2023  03:04 PM    <DIR>          ..
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git
+
+08/02/2023  02:15 PM    <DIR>          refs
+08/02/2023  02:15 PM    <DIR>          objects
+08/02/2023  02:15 PM    <DIR>          info
+08/02/2023  02:15 PM    <DIR>          hooks
+08/02/2023  02:15 PM    <DIR>          ..
+08/02/2023  02:15 PM                23 HEAD
+08/02/2023  02:15 PM                73 description
+08/02/2023  02:15 PM               112 config
+               3 File(s)            208 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\hooks
+
+08/02/2023  02:15 PM    <DIR>          .
+08/02/2023  02:15 PM               189 post-update.sample
+08/02/2023  02:15 PM               416 pre-merge-commit.sample
+08/02/2023  02:15 PM               424 pre-applypatch.sample
+08/02/2023  02:15 PM               478 applypatch-msg.sample
+08/02/2023  02:15 PM               544 pre-receive.sample
+08/02/2023  02:15 PM               896 commit-msg.sample
+08/02/2023  02:15 PM             1,374 pre-push.sample
+08/02/2023  02:15 PM             1,492 prepare-commit-msg.sample
+08/02/2023  02:15 PM             1,643 pre-commit.sample
+08/02/2023  02:15 PM             2,783 push-to-checkout.sample
+08/02/2023  02:15 PM             3,650 update.sample
+08/02/2023  02:15 PM             4,655 fsmonitor-watchman.sample
+08/02/2023  02:15 PM             4,898 pre-rebase.sample
+              13 File(s)         23,442 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\info
+
+08/02/2023  02:15 PM    <DIR>          .
+08/02/2023  02:15 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\objects
+
+08/02/2023  02:15 PM    <DIR>          info
+08/02/2023  02:15 PM    <DIR>          pack
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\objects\info
+
+08/02/2023  02:15 PM    <DIR>          ..
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\objects\pack
+
+08/02/2023  02:15 PM    <DIR>          ..
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\refs
+
+08/02/2023  02:15 PM    <DIR>          heads
+08/02/2023  02:15 PM    <DIR>          tags
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\refs\heads
+
+08/02/2023  02:15 PM    <DIR>          ..
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\main\.git\refs\tags
+
+08/02/2023  02:15 PM    <DIR>          ..
+08/02/2023  02:15 PM    <DIR>          .
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\src
+
+08/02/2023  03:04 PM    <DIR>          ..
+07/19/2023  06:07 AM    <DIR>          dto
+08/01/2023  11:57 AM    <DIR>          controller
+07/12/2023  04:25 PM    <DIR>          .
+07/12/2023  04:25 PM             2,850 AppComponent.hpp
+06/08/2023  02:13 PM             3,048 App.cpp
+               2 File(s)          5,898 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\src\controller
+
+07/12/2023  04:25 PM    <DIR>          ..
+08/01/2023  11:57 AM    <DIR>          .
+06/14/2023  07:31 AM                52 MyController.cpp
+06/15/2023  09:01 AM               228 Helpers.cpp
+06/14/2023  07:26 AM               314 targetver.h
+05/11/2023  02:32 PM               407 CShowImage.h
+06/15/2023  08:41 AM               552 CShowImage.cpp
+04/06/2023  02:43 PM               558 SampleMFCOpenCV.h
+06/15/2023  02:57 PM               671 DrawRectDetectMaskPolys.cpp
+06/15/2023  02:56 PM               710 DrawRectDetectMask.cpp
+06/15/2023  09:01 AM               944 GetDefaultBorders.cpp
+07/19/2023  03:22 PM             1,237 pch.h
+05/11/2023  02:25 PM             1,462 resource.h
+06/15/2023  02:56 PM             1,573 DisplayEmptyPolys.cpp
+04/06/2023  10:46 AM             1,647 framework.h
+06/15/2023  09:01 AM             1,700 EraseBorders.cpp
+07/13/2023  11:00 AM             2,258 LoadParams.cpp
+07/26/2023  09:36 AM             2,742 CalcEmptyPolys.cpp
+05/24/2023  08:45 AM             3,099 SampleMFCOpenCVDlg.h
+04/12/2023  08:13 AM             3,248 SampleMFCOpenCV.cpp
+06/15/2023  03:09 PM             4,472 GenerateDetectMaskPolys.cpp
+06/28/2023  10:37 AM             5,352 MyControllerNewer.hpp
+07/13/2023  01:11 PM             6,102 MyController.hpp
+06/15/2023  09:01 AM             6,800 UndistortBigImage.cpp
+07/13/2023  06:06 AM             7,648 DetectCorners.cpp
+07/19/2023  06:55 AM             8,629 LoadCalibrationImages.cpp
+05/24/2023  08:45 AM            14,666 SampleMFCOpenCVDlg.cpp
+08/01/2023  11:57 AM            20,148 DetectEdges.cpp
+07/13/2023  01:42 PM           957,826 json.hpp
+              27 File(s)      1,055,045 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\src\dto
+
+07/12/2023  04:25 PM    <DIR>          ..
+07/19/2023  06:07 AM    <DIR>          .
+07/19/2023  06:07 AM             1,826 DTOs.hpp
+               1 File(s)          1,826 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\test
+
+08/02/2023  03:04 PM    <DIR>          ..
+06/08/2023  10:26 AM    <DIR>          app
+06/08/2023  10:26 AM    <DIR>          .
+06/08/2023  10:26 AM               281 MyControllerTest.hpp
+06/08/2023  10:26 AM               742 tests.cpp
+06/08/2023  10:26 AM             1,855 MyControllerTest.cpp
+               3 File(s)          2,878 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\test\app
+
+06/08/2023  10:26 AM    <DIR>          ..
+06/08/2023  10:26 AM    <DIR>          .
+06/08/2023  10:26 AM               581 MyApiTestClient.hpp
+06/08/2023  10:26 AM             2,395 TestComponent.hpp
+               2 File(s)          2,976 bytes
+
+ Directory of C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\utility
+
+08/02/2023  03:04 PM    <DIR>          ..
+06/08/2023  10:26 AM    <DIR>          .
+06/08/2023  10:26 AM               405 install-oatpp-modules.sh
+               1 File(s)            405 bytes
+
+     Total Files Listed:
+             535 File(s)    211,613,162 bytes
+             718 Dir(s)  43,821,727,744 bytes free

@@ -1,0 +1,24 @@
+﻿  Building Custom Rule C:/Users/G.Norkus/source/repos/oatpp-swagger/my-service/CMakeLists.txt
+  CalcEmptyPolys.cpp
+  DetectCorners.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  DetectEdges.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+..\src\controller\DetectEdges.cpp(106,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\src\controller\DetectEdges.cpp(533,13): warning C4101: 'i': unreferenced local variable
+  DisplayEmptyPolys.cpp
+  DrawRectDetectMask.cpp
+  DrawRectDetectMaskPolys.cpp
+  EraseBorders.cpp
+  GenerateDetectMaskPolys.cpp
+  GetDefaultBorders.cpp
+  Helpers.cpp
+  LoadCalibrationImages.cpp
+..\src\controller\LoadCalibrationImages.cpp(44,43): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+..\src\controller\LoadCalibrationImages.cpp(45,44): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+..\src\controller\LoadCalibrationImages.cpp(46,103): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  LoadParams.cpp
+  UndistortBigImage.cpp
+  MyController.cpp
+  Generating Code...
+  my-project-lib.vcxproj -> C:\Users\G.Norkus\source\repos\oatpp-swagger\my-service\build\Release\my-project-lib.lib
